@@ -1,0 +1,19 @@
+Paginas a tener en cuenta para con Python
+- El repositorio de 30 dias aprendiendo Python
+- Juego de Python 'THE LEGEND OF Python"
+ | https://www.codedex.io/python 
+
+ print(type("Hola"))
+print(type(True))
+print(type(9))
+print(type(9.2))
+//consulta el tipo de variable 'str','bool','int','float',etc..
+
+funciones como type en dia 2 
+lent() -> # contar cantidad de caracteres
+
+Operadores and, or, not
+and: Solo si ambos son verdaderos devuelve True
+or: Con solo uno que sea verdadero devuelve True
+not: Niega o invierte la condicion dentro de:
+    not (3 > 4) esto deberia dar false pero por not devuelve True

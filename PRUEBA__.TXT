@@ -1,0 +1,1 @@
+<input type="TEXT" name="nom_largo" id="isc_RU" handlenativeevents="false" $89="isc_TextItem_291" $9a="$9b" spellcheck="true" oninput="isc_TextItem_291.$43g()" autocomplete="OFF" class="textItem" style="WIDTH:250px;HEIGHT:30px;text-align:left;" tabindex="1567">
