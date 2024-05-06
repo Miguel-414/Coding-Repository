@@ -50,10 +50,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Miguel-414/Miguel-414/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -61,3 +57,5 @@
   
   <br/><br/><br/>
 </div>
+
+###
